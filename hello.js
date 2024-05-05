@@ -24,5 +24,10 @@ const c=()=>{
     alert("function c")
  
  }
+ const x=()=>{
+
+    alert("function x")
+ 
+ }
 
 
