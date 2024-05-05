@@ -11,7 +11,7 @@ const b=()=>{
 }
 const c=()=>{
 
-    alert("ccc")
+    alert("function c")
   
  
  }
