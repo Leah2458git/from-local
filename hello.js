@@ -9,3 +9,9 @@ const b=()=>{
    return "5" 
 
 }
+const c=()=>{
+
+    alert("function c")
+  
+ 
+ }
